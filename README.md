@@ -3,5 +3,5 @@ MERN Stack Item Manager - Lab Test Submission  A full-stack CRUD application bui
 
 # Student Details
 
-ID = IT24103675 &amp;
-Name = Bandara H. M. T. A.
+ID = IT24103675 &amp; Name = Bandara H. M. T. A.
+
