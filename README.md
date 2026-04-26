@@ -8,9 +8,12 @@
 ## Project Overview
 Full‑stack MERN application that manages items.  
 Each item contains:
-- **Name** (required)
-- **Description** (required)  
-- **Price** (required, added as the new field for this lab test)
+- **Category** 
+- **Item ID** 
+- **Price**
+- **Manufacturer**
+- **Discription**
+
 
 Features: add, view, delete, and update items.
 
